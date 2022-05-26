@@ -53,14 +53,13 @@ reconstruct_inst = reconstruct.Reconstruct(
     ),
 )
 
-app.title = "Controllable TalkNet"
+app.title = "The Name's ... - Speech Synthesis"
 app.layout = html.Div(
     children=[
         html.H1(
             id="header",
-            children="Controllable TalkNet",
+            children="The Name's ... - Speech Synthesis",
             style={
-                "font-family": "EquestriaWebfont",
                 "color": "#52042c",
                 "font-size": "4em",
                 "text-align": "center",
