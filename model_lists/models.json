@@ -7,8 +7,18 @@
             "is_singing": false
         },
         {
+            "name": "Sean Connery (without Dr No)",
+            "drive_id": "1Ala3XUnF0vPsJB-1cYHwaqqQR6mNPCCQ",
+            "is_singing": false
+        },
+        {
             "name": "Marilyn Monroe",
             "drive_id": "14EVIqtdTl0Ge5TpMOjpvaYx70GgLEf23",
+            "is_singing": false
+        },
+        {
+            "name": "Hilary Clinton",
+            "drive_id": "1AeeD1MKT0qgvaXh3zzNa2DT3TLljVeGf",
             "is_singing": false
         }
     ]}
